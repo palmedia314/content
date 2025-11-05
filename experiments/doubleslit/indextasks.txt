@@ -1,1 +1,5 @@
-
+#PGINDEXFILE
+palgrap_doubleslit_eng_no1.pdf
+# Determine screen width (www.palgrap.com)
+https://www.milq.info/data/_uploaded/image/arbeitsblaetter/AB5_grundprinzip3.pdf
+# Drittes Grundprinzip der Quantentheorie (www.milq.info - TU Braunschweig)
