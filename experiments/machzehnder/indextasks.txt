@@ -1,0 +1,5 @@
+#PGINDEXFILE
+palgrap_machzehnder_eng_no1.pdf
+# Determination of the refractive index of a waveplate using a Mach–Zehnder interferometer (www.palgrap.com)
+palgrap_quantumeraser_eng_no1.pdf
+# Quantum Eraser (www.palgrap.com)
